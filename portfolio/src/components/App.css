@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.nav-container {
+    position: fixed;
+   background-color:yellowgreen;
+   
+   top: 0%;
+   width: 100%;
+}
+
+.nav-container a  {
+    float: left;
+    padding: 10px 75px 15px 20px;
+    align-items: center;
+    display: block;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+
+}
+a:hover {
+    background-color: red;
+}
